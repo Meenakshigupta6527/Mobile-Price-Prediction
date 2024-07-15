@@ -6,14 +6,20 @@ In this project, we will work with a dataset that contains detailed information 
 
 # Steps I followed for this Mobile Prize Prediction 
 Data Exploration
-Data Cleaning
-Data Preprocessing
-Feature Extraction
-Exploratory Data Analysis (EDA)
-Feature Scaling
-Model Building
-Model Evaluation
 
+Data Cleaning
+
+Data Preprocessing
+
+Feature Extraction
+
+Exploratory Data Analysis (EDA)
+
+Feature Scaling
+
+Model Building
+
+Model Evaluation
 
 
 # Conclusion
